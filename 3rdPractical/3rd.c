@@ -5,10 +5,10 @@ pwd
 cd
 cd Documents
 cd
-touch file1 (Ishika)
-cat > file2 (Ishika2)
+touch Ishika
+cat > Ishika2
 ctrl z
-cat >> file2 (Ishika2)
+cat >> Ishika2
 ctrl z
 mkdir
 mkdir d1

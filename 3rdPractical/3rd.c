@@ -5,13 +5,13 @@ pwd
 cd
 cd Documents
 cd
-touch file1 (filename1)
-cat > file2 (filename2)
+touch file1 (Ishika)
+cat > file2 (Ishika2)
 ctrl z
-cat >> file2 (filename2)
+cat >> file2 (Ishika2)
 ctrl z
 mkdir
-mkdir d1 (new directory name)
+mkdir d1
 cd d1
 date
 cd..

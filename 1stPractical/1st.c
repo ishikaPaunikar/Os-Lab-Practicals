@@ -5,9 +5,9 @@ pwd
 cd..
 cd
 cd Documents
-touch Vidit.c   
-cat > Vidit2.c
+touch Ishika.c   
+cat > Ishika2.c
 ctrl z
-cat >> Vidit.c
+cat >> Ishika.c
 ctrl z
 mkdir d1  
